@@ -1,7 +1,8 @@
 ### Getting Started
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
+> git clone 
+> cd YouTube-Search-App
 > npm start
+> open chrome
+> search "localhost:8080"
 ```
